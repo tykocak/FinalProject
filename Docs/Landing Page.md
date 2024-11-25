@@ -1,4 +1,13 @@
 # PRJX-01-Landing-Page
+
+## Code copied to index.html to render the page 
+
+Note to self: 
+
+* Markdown - notes - uses symbols for fast notes
+* HTML - page building - uses tags to build pages 
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -112,4 +121,5 @@ Refreshments Included: Enjoy light snacks and beverages post-climb.
     </footer>
 </body>
 </html>
+```
 

@@ -1,0 +1,36 @@
+
+<SERVICES>
+    <SERVICE>
+        <SNAME>Half-Day Climb</SNAME>
+        <SOVERVIEW>Perfect for beginners or those with a tight schedule, our Half-Day Climb offers an exhilarating introduction to rock climbing.</SOVERVIEW>
+        <SDURATION>4 Hours</SDURATION>
+        <SHIGHLIGHTS>Expert Guidance: Climb with experienced guides who ensure safety and fun.
+
+Scenic Routes: Enjoy breathtaking views from accessible climbing routes.
+
+All Gear Included: We provide all necessary climbing equipment.</SHIGHLIGHTS>
+        <SCATEGORY>Climbing Experiences</SCATEGORY>
+    </SERVICE>
+   <SERVICE>
+        <SNAME>Multi-Day Expedition</SNAME>
+        <SOVERVIEW>For the ultimate climbing adventure, our Multi-Day Expedition offers an immersive experience in some of the most stunning climbing locations.</SOVERVIEW>
+       <SDURATION>3-7 days</SDURATION>
+        <SHIGHLIGHTS>Comprehensive Training: Learn advanced climbing techniques and safety skills.
+
+Camp Under the Stars: Experience the thrill of camping in remote, beautiful locations.
+
+All-Inclusive: Includes meals, camping gear, and climbing equipment.</SHIGHLIGHTS>
+       <SCATEGORY>Climbing Experiences</SCATEGORY>
+    </SERVICE>
+   <SERVICE>
+        <SNAME>Sunset Climb</SNAME>
+        <SOVERVIEW>Enjoy the magic of climbing as the sun sets, offering a unique and beautiful experience.</SOVERVIEW>
+       <SDURATION>3 hours</SDURATION>
+       <SHIGHLIGHTS>Golden Hour Views: Climb during the most picturesque time of day.
+
+Relaxing Descent: Descend as the sky changes colors, creating a serene atmosphere.
+
+Refreshments Included: Enjoy light snacks and beverages post-climb.</SHIGHLIGHTS>
+        <SCATEGORY>Climbing Experiences</SCATEGORY>
+    </SERVICE>
+</SERVICES>

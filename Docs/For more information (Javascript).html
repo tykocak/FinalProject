@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>For more information</title>
+        <script>
+        //Declarations
+        var mystr = "";
+        var hw = "";
+        
+        function testMe(frm) {
+        var myname = frm.user_name.value;
+        var mymail = frm.user_email.value;
+        var mymsg = frm.user_message.value;
+        
+        document.getElementById("formresults").innerHTML = "Name " + myname + "Email: " + mymail + " Feedback: " + mymsg;
+        
+        }
+        </script>
+    </head>
+    <body>
+        
+        <form method="GET">
+        <p>
+            <label for="name">Name (Optional):</label>
+            <input type="text" id="name" name="user_name" />
+        </p>
+        <p>
+            <label for="mail">Email (Optional):</label>
+            <input type="email" id="mail" name="user_email" />
+        </p>
+         <p>
+            <label for="feed">Provide any Feedback/Additional Information about the Adventure:</label>
+            <textarea id="feed" name="user_feed"></textarea>
+        </p>
+        <p>
+            <input type="button" name="EnterButton" value="Enter" onclick="testMe(this.form);">
+        </p>
+        </form>
+        <div class="results" id="formresults">
+        </div>
+    </body>
+</html>
